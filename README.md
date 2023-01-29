@@ -1,2 +1,2 @@
-# miniproject_c
-here are the mini projects i created in c language
+# miniproject
+here are the mini projects i have created
