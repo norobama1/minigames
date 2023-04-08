@@ -1,2 +1,2 @@
-# miniproject
-here are the mini projects i have created
+# games
+here are the mini games i have created
